@@ -1,4 +1,4 @@
-# CRCLE Coffee - React Native Mobile App
+# CRCLE - React Native Mobile App
 
 A beautiful React Native mobile application for coffee ordering, built with Expo and TypeScript.
 
